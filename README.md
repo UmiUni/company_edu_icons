@@ -1,1 +1,1 @@
-# company_icons
+# company_edu_icons
